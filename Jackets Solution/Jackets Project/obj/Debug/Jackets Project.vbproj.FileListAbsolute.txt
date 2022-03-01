@@ -1,0 +1,12 @@
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.exe.config
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.AssemblyReference.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets_Project.frmMain.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets_Project.Resources.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.GenerateResource.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.pdb

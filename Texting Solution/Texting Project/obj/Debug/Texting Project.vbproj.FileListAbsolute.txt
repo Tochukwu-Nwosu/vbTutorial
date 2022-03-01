@@ -1,0 +1,12 @@
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\Texting Project.vbproj.AssemblyReference.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\Texting_Project.frmMain.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\Texting_Project.Resources.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\Texting Project.vbproj.GenerateResource.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\Texting Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\bin\Debug\MyTexting.exe.config
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\bin\Debug\MyTexting.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\bin\Debug\MyTexting.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\bin\Debug\MyTexting.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\MyTexting.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\MyTexting.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Texting Solution\Texting Project\obj\Debug\MyTexting.pdb

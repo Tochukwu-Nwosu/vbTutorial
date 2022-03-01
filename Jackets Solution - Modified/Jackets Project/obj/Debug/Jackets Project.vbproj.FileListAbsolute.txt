@@ -1,0 +1,24 @@
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.exe.config
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\bin\Debug\JacketsAndMore.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.AssemblyReference.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets_Project.frmMain.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets_Project.Resources.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.GenerateResource.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\Jackets Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution\Jackets Project\obj\Debug\JacketsAndMore.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\Jackets Project.vbproj.AssemblyReference.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\Jackets_Project.frmMain.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\Jackets_Project.Resources.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\Jackets Project.vbproj.GenerateResource.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\Jackets Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\bin\Debug\My Jackets.exe.config
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\bin\Debug\My Jackets.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\bin\Debug\My Jackets.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\bin\Debug\My Jackets.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\My Jackets.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\My Jackets.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\Jackets Solution - Modified\Jackets Project\obj\Debug\My Jackets.pdb

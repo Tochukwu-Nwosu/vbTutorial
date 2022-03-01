@@ -1,0 +1,12 @@
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\bin\Debug\Art Work.exe.config
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\bin\Debug\Art Work.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\bin\Debug\Art Work.pdb
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\bin\Debug\Art Work.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.AssemblyReference.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.frmMain.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\Art Work.exe
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\Art Work.xml
+C:\Users\User\VS_Workspace\Chap1Exercise\OnYourOwn Solution\OnYourOwn Project\obj\Debug\Art Work.pdb
