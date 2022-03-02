@@ -1,2 +1,2 @@
 # vbTutorial
-### This folder contains my python code examples
+### This folder contains my visual-basic code examples
